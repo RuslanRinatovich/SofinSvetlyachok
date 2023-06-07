@@ -1,0 +1,121 @@
+﻿<Page x:Class="WpfAppOrbit.Pages.ProductsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:WpfAppOrbit.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+       Title="Материалы" IsVisibleChanged="PageIsVisibleChanged" Style="{StaticResource base_page}">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Grid.Row="0" 
+                   HorizontalAlignment="Stretch" 
+                   Background="{StaticResource additional}">
+            <StackPanel Orientation="Horizontal" Margin="20 5 5 5">
+
+                <TextBox Width="275" x:Name="TBoxSearch"   TextChanged="TBoxSearchTextChanged"
+                         materialDesign:HintAssist.Hint="наименование продукта" 
+                                materialDesign:HintAssist.HintOpacity=".26" 
+                         />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal"  Margin="20 5 5 5">
+                <!--<TextBlock Text="Выберите тип материала" Style="{StaticResource base_textblock}" />-->
+                <ComboBox Width="275" 
+                          materialDesign:HintAssist.Hint="тип продукта"
+                            materialDesign:HintAssist.HintOpacity=".26"
+                          x:Name="ComboType" 
+                          SelectionChanged="ComboTypeSelectionChanged" 
+                            DisplayMemberPath="ProductTypeName"  
+                          >
+                    <ComboBox.Resources>
+                        <SolidColorBrush x:Key="ProductDesignPaper" Color="White"/>
+                    </ComboBox.Resources>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"  Margin="20 5 5 5">
+
+                <ComboBox Width="275" 
+  x:Name="ComboSort"
+                           materialDesign:HintAssist.Hint="Сортировать по"
+  materialDesign:HintAssist.HintOpacity=".26"
+  SelectionChanged="ComboSortSelectionChanged" 
+                          Background="#FFF" >
+                    <ComboBox.Resources>
+                        <SolidColorBrush x:Key="ProductDesignPaper" Color="White"/>
+                    </ComboBox.Resources>
+                    <ComboBoxItem Content="По возрастанию названия"/>
+                    <ComboBoxItem Content="По убыванию названия"/>
+                    <ComboBoxItem Content="По возрастанию номера цеха"/>
+                    <ComboBoxItem Content="По убыванию номера цех"/>
+                    <ComboBoxItem Content="По возрастанию минимальной стоимости"/>
+                    <ComboBoxItem Content="По убыванию  минимальной стоимости"/>
+                </ComboBox>
+            </StackPanel>
+         
+        </WrapPanel>
+        <DataGrid x:Name="DataGridProducts" Grid.Row="1"
+   AutoGenerateColumns="False"
+   IsReadOnly="True"
+   SelectionMode="Single"
+   LoadingRow="DataGridAgetsLoadingRow">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ProductId}"  Header="№" Width="60"/>
+                <DataGridTemplateColumn Width="100" Header="Изображение">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Path=GetPhoto}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Binding="{Binding Artikul}"   Header="Артикул" Width="2*"/>
+                <DataGridTextColumn Binding="{Binding ProductName}"   Header="Наименование" Width="2*"/>
+                <DataGridTextColumn Binding="{Binding ProductType.ProductTypeName}"   Header="Тип" Width="2*"/>
+
+                <DataGridTextColumn Binding="{Binding PeopleCount}" Header="Количество человек для производства" Width="*"/>
+                <DataGridTextColumn Binding="{Binding WorkshopId}" Header="Номер цеха для производства" Width="*"/>
+                <DataGridTextColumn Binding="{Binding MinimalPrice, StringFormat='c', ConverterCulture='ru-RU'}" Header="Минимальня стоимость для агента" Width="*"/>
+
+                <DataGridTemplateColumn Width="auto" Header="Редактировать">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="BtnEdit" Style="{StaticResource MaterialDesignFlatButton}"
+                                    Content="{materialDesign:PackIcon Kind=Edit}"     Click="ButtonClick" Margin="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="auto" Header="Удалить">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="BtnDelete" Style="{StaticResource MaterialDesignFlatButton}"
+                                    Content="{materialDesign:PackIcon Kind=Delete}"     Click="BtnDelete_Click" Margin="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="auto" Header="Продажи">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="BtnSell" Content="{materialDesign:PackIcon Kind=Cash}"  Style="{StaticResource MaterialDesignFlatButton}"  Click="BtnSell_Click" Margin="0"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Right">
+            <Button x:Name="BtnExcel"  Content="{materialDesign:PackIcon Kind=FileExcel}" Style="{StaticResource MaterialDesignFlatButton}" ToolTip="Excel" Grid.Row="2" 
+                    Margin="5"   Click="BtnExcel_Click"/>
+            <Button x:Name="BtnProductTypes"  Content="{materialDesign:PackIcon Kind=Category}" Style="{StaticResource MaterialDesignFlatButton}" ToolTip="Типы продукции" Grid.Row="2" Width="Auto" Margin="5"   Click="BtnProductTypes_Click" />
+            <Button x:Name="BtnWorkshops"   Content="{materialDesign:PackIcon Kind=Work}" Style="{StaticResource MaterialDesignFlatButton}" ToolTip="Цеха" Grid.Row="2" Width="Auto" Margin="5"   Click="BtnWorkshops_Click"/>
+            <Button x:Name="BtnAdd" Grid.Row="2" Margin="5"  Content="{materialDesign:PackIcon Kind=Add}" Style="{StaticResource MaterialDesignFlatButton}" ToolTip="Добавить" Click="BtnAddClick"/>
+        </StackPanel>
+        <TextBlock Grid.Row="2" x:Name="TextBlockCount" Width="300" HorizontalAlignment="Left"/>
+    </Grid>
+</Page>

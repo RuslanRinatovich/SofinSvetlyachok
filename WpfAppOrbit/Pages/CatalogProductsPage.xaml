@@ -1,0 +1,125 @@
+﻿<Page x:Class="WpfAppOrbit.Pages.CatalogProductsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+       xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:local="clr-namespace:WpfAppOrbit.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+        Title="Каталог"
+      IsVisibleChanged="PageIsVisibleChanged" 
+      Style="{StaticResource base_page}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <WrapPanel Grid.Row="0" 
+                   HorizontalAlignment="Stretch" 
+                   Background="{StaticResource additional}">
+            <StackPanel Orientation="Horizontal" Margin="20 5 5 5">
+
+                <TextBox Width="275" x:Name="TBoxSearch"   TextChanged="TBoxSearchTextChanged"
+                         materialDesign:HintAssist.Hint="наименование продукта" 
+                                materialDesign:HintAssist.HintOpacity=".26" 
+                         />
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal"  Margin="20 5 5 5">
+                <!--<TextBlock Text="Выберите тип материала" Style="{StaticResource base_textblock}" />-->
+                <ComboBox Width="275" 
+                          materialDesign:HintAssist.Hint="тип продукта"
+                            materialDesign:HintAssist.HintOpacity=".26"
+                          x:Name="ComboType" 
+                          SelectionChanged="ComboTypeSelectionChanged" 
+                            DisplayMemberPath="ProductTypeName"  
+                          >
+                    <ComboBox.Resources>
+                        <SolidColorBrush x:Key="MaterialDesignPaper" Color="White"/>
+                    </ComboBox.Resources>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal"  Margin="20 5 5 5">
+
+                <ComboBox Width="275" 
+  x:Name="ComboSort"
+                           materialDesign:HintAssist.Hint="Сортировать по"
+  materialDesign:HintAssist.HintOpacity=".26"
+  SelectionChanged="ComboSortSelectionChanged" 
+                          Background="#FFF" >
+                <ComboBox.Resources>
+                    <SolidColorBrush x:Key="MaterialDesignPaper" Color="White"/>
+                </ComboBox.Resources>
+                <ComboBoxItem Content="По возрастанию названия"/>
+                    <ComboBoxItem Content="По убыванию названия"/>
+                    <ComboBoxItem Content="По возрастанию номера цеха"/>
+                    <ComboBoxItem Content="По убыванию номера цех"/>
+                    <ComboBoxItem Content="По возрастанию минимальной стоимости"/>
+                    <ComboBoxItem Content="По убыванию  минимальной стоимости"/>
+                </ComboBox>
+            </StackPanel>
+            <Button x:Name="BtnChangePriority"  Content="Изменить минимальную стоимость на ..."  Foreground="White" FontWeight="Bold"
+                    Click="BtnChangePriority_Click"/>
+        </WrapPanel>
+        <ListBox x:Name="ListBoxProducts"  ScrollViewer.VerticalScrollBarVisibility="Visible"    HorizontalAlignment="Stretch" 
+     SelectedValuePath="Id"   Grid.Row="1" Grid.Column="0"     ItemContainerStyle="{StaticResource good_item}" SelectionMode="Multiple"
+                 SelectionChanged="ListBoxProducts_SelectionChanged">
+            <ListBox.ItemTemplate >
+                <DataTemplate >
+
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="60"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Column="0" Width="60" Height="80" Source="{Binding Path=GetPhoto}" />
+                        <StackPanel Grid.Column="1" HorizontalAlignment="Stretch">
+                            <TextBlock Margin="2" FontSize="16" Width="Auto" HorizontalAlignment="Stretch" >
+                                <TextBlock.Text >
+                                    <MultiBinding StringFormat="{}{0} | {1}">
+                                        <Binding Path="ProductType.ProductTypeName"/>
+                                        <Binding Path="ProductName"/>
+                                    </MultiBinding>
+                                </TextBlock.Text>
+                            </TextBlock>
+                            <TextBlock Margin="2" FontSize="16" Text="{Binding Path=Artikul, StringFormat='Артикул: {0}'}" Width="Auto" HorizontalAlignment="Left" />
+                            <TextBlock Margin="2" FontSize="16" Text="{Binding Path=MaterialsItems, StringFormat='Материалы: {0}'}" Width="Auto" TextWrapping="Wrap" HorizontalAlignment="Left" />
+
+                        </StackPanel>
+                        <TextBlock  Width="120" HorizontalAlignment="Right" Grid.Column="2"  FontSize="16" VerticalAlignment="Center" FontWeight="Bold" Text="{Binding MinimalPrice, StringFormat='c', ConverterCulture='ru'}"   />
+                    </Grid>
+
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Right">
+            <Button x:Name="BtnPrev" Style="{StaticResource MaterialDesignFlatButton}" Content="{materialDesign:PackIcon Kind=ArrowLeftBoldBox}" 
+  BorderThickness="0" Padding="0" 
+  VerticalContentAlignment="Center"
+  Width=" 25" Click="BtnPrev_Click"/>
+            <ListBox  x:Name="ListBoxPageCount" 
+    HorizontalAlignment="Right"
+    BorderThickness="0" 
+    SelectionChanged="ListBoxPageCount_SelectionChanged">
+                <ListBox.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation='Horizontal'/>
+                    </ItemsPanelTemplate>
+                </ListBox.ItemsPanel>
+            </ListBox>
+            <Button x:Name="BtnNext" Style="{StaticResource MaterialDesignFlatButton}" Content="{materialDesign:PackIcon Kind=ArrowRightBoldBox}" 
+  BorderThickness="0"  Padding="0"
+  VerticalContentAlignment="Center" 
+  Width="25" Click="BtnNext_Click"/>
+        </StackPanel>
+        <TextBlock Grid.Row="3" x:Name="TextBlockCount" />
+    </Grid>
+</Page>
+

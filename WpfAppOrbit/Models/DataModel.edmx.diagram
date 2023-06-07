@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2281f9ec5ffb4eeb8223668aff34228f" Name="Diagram1" ZoomLevel="108">
+        <EntityTypeShape EntityType="ZevaBdModel.Agent" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.AgentPoint" Width="1.5" PointX="3" PointY="27.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.AgentType" Width="1.5" PointX="1.5" PointY="16.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Door" Width="1.5" PointX="3.75" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Material" Width="1.5" PointX="6" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.MaterialSupplier" Width="1.5" PointX="15.25" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.MaterialType" Width="1.5" PointX="3.75" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.MaterialWriteOff" Width="1.5" PointX="8.25" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Order" Width="1.5" PointX="5.125" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.OrderProduct" Width="1.5" PointX="5.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.PriceHistory" Width="1.5" PointX="5.25" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.PriorityHistory" Width="1.5" PointX="3" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Product" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.ProductMaterial" Width="1.5" PointX="8.25" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.ProductType" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.SellHistory" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Speciality" Width="1.5" PointX="1.5" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Supplier" Width="1.5" PointX="13" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.SupplierType" Width="1.5" PointX="10.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.UnitType" Width="1.5" PointX="3.75" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Worker" Width="1.5" PointX="3.75" PointY="19.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.WorkerDoor" Width="1.5" PointX="6" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.WorkerWorkshop" Width="1.5" PointX="6" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="ZevaBdModel.Workshop" Width="1.5" PointX="0.75" PointY="8.25" IsExpanded="true" />
+        <AssociationConnector Association="ZevaBdModel.FK_AgentPoints_Agents" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Agents_AgentTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Orders_Agents" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_PriorityHistories_Agents" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_SellHistories_Agents" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_WorkerDoors_Doors" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Materials_MaterialTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Materials_UnitTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_MaterialSuppliers_Materials" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_MaterialWarehouse_Materials1" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_ProductMaterials_Materials" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_MaterialSuppliers_Suppliers" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Sell_Orders" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_OrderProducts_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_AgentProducts_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_ProductMaterials_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Products_ProductTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Products_Workshops" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_SellHistories_Products" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Workers_Specialities" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_Suppliers_SupplierTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_WorkerDoors_Worker" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_WorkerWorkshops_Worker" ManuallyRouted="false" />
+        <AssociationConnector Association="ZevaBdModel.FK_WorkerWorkshops_Workshops" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,821 @@
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+d:\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\App.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+d:\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+d:\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+d:\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+d:\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+d:\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+d:\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+d:\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+d:\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+d:\Шакиров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Шакиров\WpfAppOrbit\obj\Debug\App.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+d:\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\App.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\App.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\App.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\App.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+z:\ДИПЛОМ 2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+d:\Руслан\ДИПЛОМЫ2022\Шакиров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\App.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\App.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+D:\Диплом 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\App.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\App.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+h:\SHARE\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.xml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\App.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\App.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Dictionary1.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+Z:\ДИПЛОМ 2022\Прохоров\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\EntityFramework.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\EntityFramework.xml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\App.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\App.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Dictionary1.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\EntityFramework.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\EntityFramework.xml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\App.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\App.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Dictionary1.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AgentsPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AgentsPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.g.cs
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.baml
+c:\Users\Main\Documents\ЗМК\ДИПЛОМ2023\Fokeev\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AgentsPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AgentsPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.baml
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductSystemPage.g.cs
+C:\DIPLOMS\Фокеев\WpfAppOrbit\obj\Debug\Pages\ProductSystemPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe.config
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\WpfAppOrbit.exe
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\WpfAppOrbit.pdb
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\EntityFramework.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\MaterialDesignColors.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\EntityFramework.xml
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\EntityFramework.SqlServer.xml
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\MaterialDesignColors.pdb
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.csprojAssemblyReference.cache
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.ResolveComReference.cache
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddProductPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AgentsPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductsPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductSystemPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MainWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\SellWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\App.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit_Content.g.cs
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.cache
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit_MarkupCompile.lref
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\App.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Dictionary1.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddAgentPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddMaterialPage1.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddProductPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AddSupplierPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AgentsPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\AgentTypesPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogAgentPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogMaterialPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\CatalogProductsPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\MaterialsPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\MaterialTypesPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductsPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductSystemPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\ProductTypePage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SellHistoryPage1.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SuppliersPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\SupplierTypesPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\UnitTypesPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Pages\WorkshopsPage.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AddProductMaterialWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AddSellWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\AgentTypeWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalPriceWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangeMinimalWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ChangePriorityWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MainWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialSupplierWindow1.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialTypeWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\MaterialWriteOffWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\ProductTypeWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\SellWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\SupplierTypeWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\UnitTyprWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\Windows\WorkshopWindow.baml
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.g.resources
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.Properties.Resources.resources
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.GenerateResource.cache
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CoreCompileInputs.cache
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.csproj.CopyComplete
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.exe
+C:\DIPLOMS\Софин\WpfAppOrbit\obj\Debug\WpfAppOrbit.pdb

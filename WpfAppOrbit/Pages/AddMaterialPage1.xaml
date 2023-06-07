@@ -1,0 +1,118 @@
+﻿<Page x:Class="WpfAppOrbit.Pages.AddMaterialPage1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:xtk ="http://schemas.xceed.com/wpf/xaml/toolkit"
+      xmlns:local="clr-namespace:WpfAppOrbit.Pages" xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      
+    Title="Добавление и редактирование" Style="{StaticResource base_page}" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.Row="0" Grid.ColumnSpan="2" />
+
+
+        <Button x:Name="BtnSave" Grid.Row="11" Content="Сохранить"  HorizontalAlignment="Center" Margin="140,5,340,0" VerticalAlignment="Top" Width="120" 
+                Click="BtnSaveClick" Grid.Column="1"/>
+
+        <TextBlock  Grid.Row="0" Grid.Column="0" Text="Изображение"  Margin="20 0"/>
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="Название"  Margin="20 0"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Описание"  Margin="20 0"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Тип материала"  Margin="20 0"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Единица измерения"  Margin="20 0"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Text="Количество в упаковке"  Margin="20 0"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Минимальное количество"  Margin="20 0"/>
+
+        <TextBlock Grid.Row="7" Grid.Column="0" Text="Стоимость"  Margin="20 0"/>
+        <TextBlock Grid.Row="8" Grid.Column="0" Text="Количество на складе"  Margin="20 0"/>
+        <TextBlock Grid.Row="9" Grid.Column="0" Text="История поставок:" 
+                   Margin="20 0" Height="30" VerticalAlignment="Top"/>
+
+        <TextBlock Grid.Row="10" Grid.Column="0" Text="История списания:" 
+                   Margin="20 0" Height="30" VerticalAlignment="Top"/>
+
+
+        <TextBox x:Name="TextBoxMaterialName" Text="{Binding MaterialName}"  Grid.Row="1" Grid.Column="1" Padding="0,2"/>
+        <TextBox x:Name="TextBoxDescription" Text="{Binding Description}"  Grid.Row="2" Grid.Column="1" Padding="0,2" VerticalAlignment="Stretch"/>
+        <ComboBox x:Name="ComboMaterialType"  SelectedItem="{Binding MaterialType}" 
+                  Grid.Row="3" Grid.Column="1"  DisplayMemberPath="MaterialTypeName" 
+                  SelectedValuePath="MaterialTypeId" />
+        <ComboBox x:Name="ComboUnitType"  SelectedItem="{Binding UnitType}" 
+                  Grid.Row="4" Grid.Column="1"  DisplayMemberPath="UnitTypeName" 
+                  SelectedValuePath="UnitTypeId" />
+        <xtk:IntegerUpDown x:Name="UpDownCountInPack"   Value="{Binding CountInPack}" Grid.Row="5" Grid.Column="1" Width="100" HorizontalAlignment="Left"/>
+        <xtk:IntegerUpDown x:Name="UpDownMinimalCount"   Value="{Binding MinimalCount}" Grid.Row="6" Grid.Column="1" Width="100" HorizontalAlignment="Left"/>
+        <xtk:DoubleUpDown x:Name="UpDownPrice"  Value="{Binding Price}" Grid.Row="7" Grid.Column="1" Width="100" HorizontalAlignment="Left"/>
+        <xtk:IntegerUpDown x:Name="UpDownCount"   Value="{Binding Count}" Grid.Row="8" Grid.Column="1" Width="100" HorizontalAlignment="Left"/>
+
+        <Image x:Name="ImagePhoto" Source="{Binding GetPhoto}" Grid.Row="0" Grid.Column="1" Margin="10 0 0 0"
+               VerticalAlignment="Stretch" HorizontalAlignment="Left"/>
+        <Button x:Name="BtnLoad" Grid.Row="0" Grid.Column="0" Margin="5" Style="{DynamicResource MaterialDesignFlatButton}"
+                HorizontalAlignment="Right" VerticalAlignment="Top"
+                Click="BtnLoadClick" >
+            <materialDesign:PackIcon Kind="FileUploadOutline" />
+        </Button>
+
+        <DataGrid x:Name="DtData"  AutoGenerateColumns="False" Grid.Row="9" Grid.Column="1" IsReadOnly="True" Margin="0 0 50 0"
+                  
+                  SelectionMode="Single " LoadingRow="DtDataLoadingRow">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код поставки" Binding="{Binding MaterialSupplierId}"/>
+                <DataGridTextColumn Header="Поставщик" Binding="{Binding Supplier.SupplierName}" Width="*"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Count}" Width="*"/>
+                <DataGridTextColumn Header="Дата " Binding="{Binding DeliveryDate, StringFormat='d', ConverterCulture='ru-RU'}"/>
+                <DataGridTemplateColumn Width="*" Header="Качество">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <materialDesign:RatingBar  x:Name="ReadOnlyRatingBar"  Value="{Binding GetRate}"  IsReadOnly="True" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="9" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <Button x:Name="btnAdd" Content="{materialDesign:PackIcon Kind=Add}" Click="btnAdd_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+            <Button x:Name="btnDelete" Content="{materialDesign:PackIcon Kind=Delete}" Click="btnDelete_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+            <Button x:Name="btnChange" Content="{materialDesign:PackIcon Kind=Edit}" Click="btnChange_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+        </StackPanel>
+
+
+
+        <DataGrid x:Name="DtDataWriteOff"  AutoGenerateColumns="False" Grid.Row="10" Grid.Column="1" IsReadOnly="True" Margin="0 0 50 0"
+                  
+                  SelectionMode="Single " LoadingRow="DtDataLoadingRow">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Код" Binding="{Binding MaterialSupplierId}"/>
+                <DataGridTextColumn Header="Причина" Binding="{Binding Reason}" Width="*"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Count}" Width="*"/>
+                <DataGridTextColumn Header="Дата " Binding="{Binding OperationDate, StringFormat='d', ConverterCulture='ru-RU'}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="10" Grid.Column="1" Orientation="Vertical" VerticalAlignment="Top" HorizontalAlignment="Right">
+            <Button x:Name="btnAddWriteOff" Content="{materialDesign:PackIcon Kind=Add}" Click="btnAddWriteOff_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+            <Button x:Name="btnDeleteWriteOff" Content="{materialDesign:PackIcon Kind=Delete}" Click="btnDeleteWriteOff_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+            <Button x:Name="btnChangeWriteOff" Content="{materialDesign:PackIcon Kind=Edit}" Click="btnChangeWriteOff_Click"  Style="{DynamicResource MaterialDesignFlatButton}"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

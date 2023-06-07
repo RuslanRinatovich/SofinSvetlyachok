@@ -1,0 +1,41 @@
+﻿<Window x:Class="WpfAppOrbit.Windows.MaterialWriteOffWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:WpfAppOrbit.Windows"
+        mc:Ignorable="d"
+         Title="Добавление и редактирование" WindowStartupLocation="CenterScreen"   
+        Height="300" Width="600"  Style="{StaticResource base_window_1}" >
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="105*" />
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="104*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="187" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Причина" VerticalAlignment="Center" Grid.Row="0" Margin="20 0 0 0"  Grid.Column="0" Height="16" />
+
+        <TextBox x:Name="TbReason"  Grid.Row="0"  Grid.Column="1" TextWrapping="Wrap" Text="{Binding Reason}"/>
+        <TextBlock Text="Дата списания" VerticalAlignment="Center" Grid.Row="1" Margin="20 0 0 0"  Grid.Column="0" Height="16" />
+
+        <xctk:DateTimePicker  x:Name="DatePickerDate" Value="{Binding OperationDate, ConverterCulture='ru-RU'}" HorizontalAlignment="Left" 
+                              Grid.Row="1" Grid.Column="1" Width="240" TabIndex="2"
+                                   />
+
+        <TextBlock Text="Количество" VerticalAlignment="Center" Grid.Row="2" Margin="20 0 0 0"  Grid.Column="0" Height="16" />
+
+        <xctk:IntegerUpDown x:Name="UpDownCount" Minimum="0" 
+                            Value="{Binding Count}" Grid.Row="2" Grid.Column="1" Width="100" Maximum="1000" HorizontalAlignment="Left"/>
+
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="9" Grid.ColumnSpan="2" Margin="127,0,103,0" Width="162">
+            <Button IsDefault="True" Click="Button_Click" MinWidth="60" Margin="5">OK</Button>
+            <Button IsCancel="True" MinWidth="60" Margin="5">Отмена</Button>
+        </StackPanel>
+    </Grid>
+</Window>
